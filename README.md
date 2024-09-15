@@ -13,7 +13,7 @@ The simulation models a simple educational environment where a student interacts
 
 ### Installing
 1. Clone the Repository
-https://github.com/RicedMeal/QLA-Simulation.git
+- git clone https://github.com/RicedMeal/QLA-Simulation.git
 
 2. Install required Python packages:
-pip install numpy matplotlib seaborn
+- pip install numpy matplotlib seaborn
