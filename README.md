@@ -11,3 +11,9 @@ The simulation models a simple educational environment where a student interacts
 - Matplotlib
 - Seaborn
 
+### Installing
+1. Clone the Repository
+https://github.com/RicedMeal/QLA-Simulation.git
+
+2. Install required Python packages:
+pip install numpy matplotlib seaborn
