@@ -1,3 +1,11 @@
+#This simulation is based from this: Authors: I Amzil, S Aammou, Z Tagdimi, et al.
+#Published: 2024
+#Link: https://www.atlantis-press.com/proceedings/elses-23/125997585
+"""Summary: This study explores the use of Q-learning algorithms in 
+adaptive educational systems to improve personalization and learning outcomes. 
+It suggests that adaptive educational systems informed by Q-learning algorithms can enhance the learning experience."""
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
