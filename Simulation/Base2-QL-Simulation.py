@@ -99,7 +99,7 @@ def calculate_reward(state, action, new_state):
 
 
 # Q-learning simulation
-def q_learning_simulation(n_episodes=1000):
+def q_learning_simulation(n_episodes=5000):
     global q_table, q_value_logs
 
     for episode in range(n_episodes):
